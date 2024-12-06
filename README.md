@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nida Fatima</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img   src"![image](https://github.com/user-attachments/assets/2a63b858-ccf6-42eb-bcbd-b8f9e690ff53)
+<img   src"![giphy](https://github.com/user-attachments/assets/8c8e33dd-32bd-4366-860c-9bb4f3e74d33)
+
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidafatima955&label=Profile%20views&color=0e75b6&style=flat" alt="nidafatima955" /> </p>
 
