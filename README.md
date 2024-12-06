@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nida Fatima</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-
+<img   src"![image](https://github.com/user-attachments/assets/2a63b858-ccf6-42eb-bcbd-b8f9e690ff53)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidafatima955&label=Profile%20views&color=0e75b6&style=flat" alt="nidafatima955" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nidafatima955" alt="nidafatima955" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
